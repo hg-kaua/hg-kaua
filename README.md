@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o Hugo🫡
 
 <!--
 **hg-kaua/hg-kaua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=hg-kaua&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hg-kaua&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
